@@ -1,0 +1,73 @@
+🕵️‍♂️ CTF Challenges Repository
+
+Welcome to my Capture The Flag (CTF) repository!
+This repo contains writeups, solutions, and resources from various CTF platforms I’ve practiced on (like TryHackMe, HackTheBox, and VulnHub).
+
+📌 Contents
+
+✅ Writeups of solved challenges
+
+✅ Step-by-step exploitation process
+
+✅ Tools & commands used
+
+✅ Key learning points
+
+⚡ Skills Demonstrated
+
+Reconnaissance & Enumeration
+
+Exploitation (Web, Network, System)
+
+Privilege Escalation
+
+Post Exploitation
+
+Reporting & Documentation
+
+🔧 Tools Used
+
+Some of the tools I commonly use:
+
+Nmap – Network scanning
+
+Gobuster / Dirb – Directory brute forcing
+
+Hydra – Password attacks
+
+Burp Suite – Web application testing
+
+Metasploit – Exploitation framework
+
+📂 Repository Structure
+├── Writeups/
+│   ├── CTF1.md
+│   ├── CTF2.md
+│   └── ...
+├── Tools/
+│   └── Useful-Commands.md
+└── README.md
+
+🚀 Getting Started
+
+Clone the repo:
+
+git clone https://github.com/yourusername/ctf-repo.git
+cd ctf-repo
+
+🎯 Goals
+
+Improve problem-solving skills
+
+Practice real-world pentesting scenarios
+
+Share knowledge with the community
+
+🤝 Contributing
+
+Feel free to fork this repo, add your own writeups, and submit a pull request.
+
+📜 Disclaimer
+
+All challenges are for educational purposes only.
+Do not use these techniques on systems you do not own or have permission to test.
